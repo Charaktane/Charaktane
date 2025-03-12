@@ -19,11 +19,11 @@
   
   <h3>📊 My Coding Stats (You're probably not going to be impressed)</h3>
   <a href="https://github.com/Charaktane">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/?username=Charaktane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/?username=Charaktane&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   </a>
 
   <a href="https://github.com/Charaktane">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charaktane&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charaktane&layout=compact&langs_count=16&theme=midnight-purple"/>
   </a>
 
   <h3> 🔍 My Specialties (Not that you'll understand)</h3>
