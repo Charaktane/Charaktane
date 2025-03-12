@@ -46,3 +46,5 @@
   </div>
 
   <!-- Imagem de café ![Café e Código] -->
+
+  ![Café e Código](assets/coffee.png)
