@@ -49,3 +49,6 @@
 
   ![Coffee and Code](assets/coffee.png)
 </div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Charaktane&label=Profile%20views&color=0e75b6&style=flat" alt="Charaktane" />
+</p>
