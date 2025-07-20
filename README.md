@@ -1,54 +1,71 @@
-# Hello, world! I'm Charaktane. 👋✨
+# Hello, world! I'm Charaktane 👋✨
 
-<div>
-  <h2>Welcome to my world of code and caffeine. 🖥️☕ You might think you know what's going on here, but trust me, you don't.</h2>
-  
-  <h3>🌙 A Little About Me (Not that you really care)</h3>
-  <ul>
-    <li>🖤 Night owl programmer who works best when everyone else is sleeping. Don't interrupt me.</li>
-    <li>🚀 I explore technology the same way House explores diagnoses — with contempt and, sometimes, bursts of brilliance.</li>
-    <li>☕ My fuel: coffee, chocolate, and a little chaos. What else do you need?</li>
-    <li>🕹️ Gaming, coding, and fixing broken things — that's my idea of fun.</li>
-  </ul>
+## Welcome
 
-  <h3>🛠️ Technologies I Support (and sometimes even love)</h3>
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  </p>
-  
-  <h3>📊 My Coding Stats (You're probably not going to be impressed)</h3>
-  <a href="https://github.com/Charaktane">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/?username=Charaktane&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  </a>
+I'm a passionate developer with a strong focus on clean code, debugging, and building meaningful projects. I work best at night, fueled by coffee and curiosity. When I'm not coding, I'm exploring new technologies, solving problems, or immersed in games and technical challenges.
 
-  <a href="https://github.com/Charaktane">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charaktane&layout=compact&langs_count=16&theme=midnight-purple"/>
-  </a>
+---
 
-  <h3> 🔍 My Specialties (Not that you'll understand)</h3>
-  <ul>
-    <li>Code Analysis — I'll find the bugs in your code before you even realize they exist.</li>
-    <li>Debugging — You will beg for mercy. And yes, I will fix it.</li>
-  </ul>
+### 🌟 About Me
 
-  <h3> 💻 Currently Working On: QR-Score</h3>
-  <i> It's such a complicated project that even I haven't fully figured it out yet. But don't worry, I will. I always do.</i>
+- 👨‍💻 Night owl developer who enjoys working during quiet hours  
+- 🔍 Dedicated to code analysis, optimization, and clean architecture  
+- ⚙️ Curious by nature — always exploring new tools and methods  
+- ☕ Productivity fuel: coffee, chocolate, and continuous learning  
+- 🎮 Gamer at heart with a love for breaking and fixing things  
 
-  <h3>🖤 Let's Connect... or Not</h3>
-  <div> 
-    <a href="https://instagram.com/suyanne_dom" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram" />
-    </a>
-    <a href="https://www.linkedin.com/in/suyanne-gomes-005b30302" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" />
-    </a> 
-  </div>
+---
 
-  <!-- Coffee Image ![Coffee and Code] -->
+### 🛠️ Technologies & Tools
 
-  ![Coffee and Code](assets/coffee.png)
-</div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+### 💻 Code Editors I Use
+
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/Charaktane">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/?username=Charaktane&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</a>
+
+<a href="https://github.com/Charaktane">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charaktane&layout=compact&langs_count=16&theme=midnight-purple" alt="Top Languages"/>
+</a>
+
+---
+
+### 🔧 Areas of Expertise
+
+- **Code Analysis** – Identifying bugs and inefficiencies in existing codebases  
+- **Debugging** – Skilled at diagnosing and resolving complex issues  
+
+---
+
+### 🚧 Current Project
+
+**QR-Score** — A project focused on performance tracking and scoring through QR technology. Currently under development and evolving rapidly.
+
+---
+
+### 📫 Let's Connect
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suyanne_dom)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyanne-gomes-005b30302)
+
+---
+
+![Coffee and Code](assets/coffee.png)
+
+---
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Charaktane&label=Profile%20views&color=0e75b6&style=flat" alt="Charaktane" />
+  <img src="https://komarev.com/ghpvc/?username=Charaktane&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
