@@ -2,16 +2,15 @@
 
 ## Welcome
 
-I'm a passionate developer with a strong focus on clean code, debugging, and building meaningful projects. I work best at night, fueled by coffee and curiosity. When I'm not coding, I'm exploring new technologies, solving problems, or immersed in games and technical challenges.
+I'm a passionate developer with a strong focus on clean code, debugging, and building meaningful projects. I work best at night, fueled by chocolate and curiosity. When I'm not coding, I'm exploring new technologies, solving problems, or immersed in games and technical challenges.
 
 ---
 
 ### 🌟 About Me
-
-- 👨‍💻 Night owl developer who enjoys working during quiet hours  
+  
 - 🔍 Dedicated to code analysis, optimization, and clean architecture  
 - ⚙️ Curious by nature — always exploring new tools and methods  
-- ☕ Productivity fuel: coffee, chocolate, and continuous learning  
+- ☕ Productivity fuel: chocolate, and continuous learning  
 - 🎮 Gamer at heart with a love for breaking and fixing things  
 
 ---
@@ -25,7 +24,6 @@ I'm a passionate developer with a strong focus on clean code, debugging, and bui
 ### 💻 Code Editors I Use
 
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
 ---
@@ -57,8 +55,7 @@ I'm a passionate developer with a strong focus on clean code, debugging, and bui
 
 ### 📫 Let's Connect
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suyanne_dom)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyanne-gomes-005b30302)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suyanne_dom)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyanne-gomes-005b30302)
 
 ---
 
