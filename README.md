@@ -49,7 +49,7 @@ I'm a passionate developer with a strong focus on clean code, debugging, and bui
 
 ### 🚧 Current Project
 
-**QR-Score** — A project focused on performance tracking and scoring through QR technology. Currently under development and evolving rapidly.
+Nothing..
 
 ---
 
