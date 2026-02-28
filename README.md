@@ -1,4 +1,4 @@
-# Hello, world! I'm Charaktane 👋✨
+# Hello, world! I'm Suyanne 👋✨
 
 ## Welcome
 
