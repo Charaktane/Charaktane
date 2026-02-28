@@ -33,14 +33,7 @@ I'm a passionate developer with a strong focus on clean code, debugging, and bui
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/suyanneDomingos">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/?username=suyanneDomingos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</a>
-
-<a href="https://github.com/suyanneDomingos">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyanneDomingos&layout=compact&langs_count=16&theme=midnight-purple" alt="Top Languages"/>
-</a>
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/suyanneDomingos?cardType=level-alternate&theme=gotham&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 ---
 
 ### 🔧 Areas of Expertise
