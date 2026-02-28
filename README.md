@@ -33,12 +33,12 @@ I'm a passionate developer with a strong focus on clean code, debugging, and bui
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/Charaktane">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/?username=Charaktane&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<a href="https://github.com/suyanneDomingos">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/?username=suyanneDomingos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
 
-<a href="https://github.com/Charaktane">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charaktane&layout=compact&langs_count=16&theme=midnight-purple" alt="Top Languages"/>
+<a href="https://github.com/suyanneDomingos">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyanneDomingos&layout=compact&langs_count=16&theme=midnight-purple" alt="Top Languages"/>
 </a>
 
 ---
@@ -67,5 +67,5 @@ I'm a passionate developer with a strong focus on clean code, debugging, and bui
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Charaktane&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=suyanneDomingos&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
