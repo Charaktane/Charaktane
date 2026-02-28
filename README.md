@@ -47,9 +47,9 @@ I'm a passionate developer with a strong focus on clean code, debugging, and bui
 
 ---
 
-### 🚧 Current Project
+### Current Project
 
-Nothing..
+- Estudando estruturas de dados e aprimorando projetos em Java e Python
 
 ---
 
